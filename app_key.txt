@@ -1,1 +1,1 @@
-Application key [base64:+4UGOnKqE5f4r8mDTGUiM0dmK2XRmnQYS6cXXhDcK4Y=] set successfully.
+Application key [base64:+4UGOnKqE5f4r8mDTGUiM0dmK2XRmnQYS6cXXhDcK4Y=]
